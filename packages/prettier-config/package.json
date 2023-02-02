@@ -1,5 +1,5 @@
 {
-  "name": "@oxicom/prettier-config",
+  "name": "@oxicom/prettier-config-projects",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Oxicom <oxicom@evee.com.au>",
@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "prettier": "^2.8.3"
-  }
+  },
+  "gitHead": "8443896c3fe3b4f4751538d15e81c5cf09bbbf53"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@oxicom/eslint-config",
+  "name": "@oxicom/eslint-config-projects",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Oxicom <oxicom@evee.com.au>",
@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "eslint": "^8.33.0"
-  }
+  },
+  "gitHead": "8443896c3fe3b4f4751538d15e81c5cf09bbbf53"
 }
