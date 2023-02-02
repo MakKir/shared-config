@@ -1,5 +1,5 @@
 {
-  "name": "@MakKir/eslint-config-projects",
+  "name": "@makkir/eslint-config-projects",
   "version": "1.1.4",
   "description": "> TODO: description",
   "author": "Oxicom <oxicom@evee.com.au>",
@@ -12,5 +12,5 @@
   "devDependencies": {
     "eslint": "^8.33.0"
   },
-  "gitHead": "a418c07149ced7fcaf491bb0d3d5f8fc39a49abb"
+  "gitHead": "75de779a4aaca773e1b0a8069dc84bee02ce239c"
 }
